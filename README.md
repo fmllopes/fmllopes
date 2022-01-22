@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Filipe Lopes</h1>
-- Professor de Matemática, Física e Robótica
+- Professor de Matemática, Física e Robótica <br>
 - Estudando Ciência de Dados
 
 <h3 align="left">Languages and Tools:</h3>
