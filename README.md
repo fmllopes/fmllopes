@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Filipe Lopes</h1>
-- Professor de Matemática e Robótica <br>
-- Estudando Ciência de Dados
+- Graduado e Mestre em Matemática <br>
+- Graduando de Engenharia de Computação
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
